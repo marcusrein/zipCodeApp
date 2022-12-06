@@ -10,7 +10,7 @@
 import GameCard from "@/components/GameCard.vue";
 
 export default {
-	name: "HomeView",
+	name: "GameList",
 	components: {
 		GameCard,
 	},
