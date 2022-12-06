@@ -1,6 +1,6 @@
 <template>
 	<nav>
-		<router-link to="/">World Cup Games</router-link> |
+		<router-link to="/">Your ZipCode Info</router-link> |
 		<router-link to="/about">About</router-link>
 	</nav>
 	<router-view />

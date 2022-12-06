@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from "vue-router";
-import GameList from "../views/GameList.vue";
+import GameList from "../views/ZipCode.vue";
 
 const routes = [
 	{

@@ -4,7 +4,7 @@
 			<div class="card card-1">
 				<div class="card__icon"><i class="fas fa-bolt"></i></div>
 				<p class="card__exit"><i class="fas fa-times"></i></p>
-				<H1> {{ event.game }} </H1>
+				<h1>Data</h1>
 				<p class="card__apply">
 					<a class="card__link" href="#"
 						>Details <i class="fas fa-arrow-right"></i
@@ -17,9 +17,9 @@
 
 <script>
 export default {
-	name: "GameCard",
+	name: "ZipCodeCard",
 	props: {
-		event: Object,
+		zipCode: Number,
 	},
 };
 </script>
